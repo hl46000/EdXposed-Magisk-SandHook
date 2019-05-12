@@ -1,0 +1,6 @@
+id=edxposed_sandhook
+name=EdXposed SandHook Add-on
+version=v0.4.1.2_beta(SandHook)
+versionCode=4120
+author=solohsu, ganyao114 & MlgmXyysd
+description=An add-on for enable SandHook features in EdXposed.
